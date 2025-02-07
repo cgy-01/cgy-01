@@ -14,10 +14,10 @@ Here is my latest technical updates and open-source code. Also, I share my learn
 - [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[Mail: i@luolei.org](mailto:i@luolei.org)
 
 - **罗磊的知乎主页**  
-  [![知乎图标](https://static.is26.com/tmp/icons/zhihu.svg)](https://zuoluo.tv/zhihu)  
+  [![知乎图标](https://static.is26.com/tmp/icons/zhihu.svg)]()  
   [访问主页](https://zuoluo.tv/zhihu)
 
-![](https://static.is26.com/share/profile-background.jpg)
+<img src="./WeChat_Official_Accounts.svg" alt="微信公众号" style="width: 400px; height: auto;">
 
 ## Others about me
 
