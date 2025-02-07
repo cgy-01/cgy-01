@@ -3,7 +3,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cgy-01.cgy-01)
 
 Hi there 👋  
-I’m an undergraduate student in the Remote Sensing Science and Technology program at the School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology (NUIST). I am interested in geospatial data science, and my current research focuses on intelligent remote sensing image analysis and the Google Earth Engine (GEE) cloud platform.
+I’m an undergraduate student in the Remote Sensing Science and Technology program at the School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology (NUIST). I am interested in geospatial data science, and my current research focuses on intelligent remote sensing image analysis and the Google Earth Engine (GEE) cloud platform.  
 Here are my latest technical updates and open-source code. Moreover, I also share my learning journey in other online communities, looking forward to exchanging ideas with you :)
 
 ## Connect
