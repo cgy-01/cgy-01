@@ -14,7 +14,7 @@ Here are my latest technical updates and open-source code. Moreover, I also shar
 - <img src="./svg/gmail.svg" alt="gmail"> &nbsp; Mail: parkerchan0001@gmail.com
 - <img src="./svg/wechat.svg" alt="wechat"> &nbsp; WeChat Official Accounts:遥感自研室👇👇
 
-&ensp;&ensp;<img src="./svg/WeChat_Official_Accounts.svg" alt="微信公众号" style="width: 350px; height: auto; margin-left: 20px;">
+&ensp;&ensp;<img src="./svg/WeChat_Official_Accounts.svg" alt="微信公众号" style="width: 300px; height: auto; margin-left: 20px;">
 
 ## Others about me
 
