@@ -12,7 +12,7 @@ Here is my latest technical updates and open-source code. Also, I share my learn
 - <img src="./svg/zhihu.svg" alt="zhihu"> &nbsp; [Zhihu: 遥感小萌新](https://www.zhihu.com/people/abc-27-98-95)
 - <img src="./svg/github.svg" alt="github"> &nbsp; [Github: cgy-01](https://github.com/cgy-01)
 - <img src="./svg/gmail.svg" alt="gmail"> &nbsp; Mail: parkerchan0001@gmail.com
-- <img src="./svg/wechat.svg" alt="wechat"> &nbsp; WeChat Official Accounts:遥感自研室
+- <img src="./svg/wechat.svg" alt="wechat"> &nbsp; WeChat Official Accounts:遥感自研室👇👇
 <img src="./svg/WeChat_Official_Accounts.svg" alt="微信公众号" style="width: 400px; height: auto;">
 
 ## Others about me
