@@ -1,6 +1,6 @@
 ## Guangyuan Chen
-[![GitHub Badge](https://img.shields.io/github/followers/cgy-01?style=social)](https://github.com/cgy-01?tab=followers)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cgy-01.cgy-01)
+[![GitHub Followers](https://img.shields.io/github/followers/cgy-01?label=Follow%20Me&style=social)](https://github.com/cgy-01?tab=followers)
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cgy-01.cgy-01)]()
 
 Hi there 👋  
 I’m an undergraduate student in the Remote Sensing Science and Technology program at the School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology (NUIST). I am interested in geospatial data science, and my current research focuses on intelligent remote sensing image analysis and the Google Earth Engine (GEE) cloud platform.  
