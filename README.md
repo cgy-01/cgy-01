@@ -8,16 +8,14 @@ Here is my latest technical updates and open-source code. Also, I share my learn
 
 ## Connect
 
-- [![zhihu](https://static.is26.com/tmp/icons/zhihu.svg)](https://zuoluo.tv/zhihu)[Zhihu: 罗磊](https://zuoluo.tv/zhihu)
-- [![wechat](https://static.is26.com/tmp/icons/wechat.svg)](https://zuoluo.tv/wechat)[WeChat Official Accounts:罗磊啰嗦](https://zuoluo.tv/wechat)
-- [![Github](https://static.is26.com/tmp/icons/github.svg)](https://github.com/foru17)[Github: foru17](https://github.com/foru17)
-- [![Mail](https://static.is26.com/tmp/icons/gmail.svg)](mailto:i@luolei.org)[Mail: i@luolei.org](mailto:i@luolei.org)
+- [<img src="./svg/csdn.svg" alt="csdn"]() &nbsp; [CSDN: 遥感小萌新](https://blog.csdn.net/2301_77168269?type=blog)
+- [<img src="./svg/zhihu.svg" alt="zhihu">]()&nbsp;[Zhihu: 遥感小萌新](https://www.zhihu.com/people/abc-27-98-95)
 
-- **罗磊的知乎主页**  
-  [![知乎图标](https://static.is26.com/tmp/icons/zhihu.svg)]()  
-  [访问主页](https://zuoluo.tv/zhihu)
+- [![Github](./svg/github.svg)]()&nbsp;[Github: cgy-01](https://github.com/cgy-01)
+- [![Mail](./svg/gmail.svg)]()&nbsp;[Mail: parkerchan0001@gmail.com]()
 
-<img src="./WeChat_Official_Accounts.svg" alt="微信公众号" style="width: 400px; height: auto;">
+- [![wechat](./svg/wechat.svg)]()[WeChat Official Accounts:遥感自研室](https://zuoluo.tv/wechat)
+<img src="./svg/WeChat_Official_Accounts.svg" alt="微信公众号" style="width: 400px; height: auto;">
 
 ## Others about me
 
