@@ -3,8 +3,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=cgy-01.cgy-01)
 
 Hi there 👋  
-I’m an undergraduate student in Remote Sensing Science and Technology program at School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology (NUIST). I specializes in multi-source remote sensing data processing and geospatial intelligent analysis. My current research focuses on deep learning-based remote sensing image change detection, satellite-ground-air multi-modal data fusion, and the GEE cloud platform.   
-Here is my latest technical updates and open-source code. Also, I share my learning journey in other online communities, looking forward to exchange ideas with you :)
+I’m an undergraduate student in the Remote Sensing Science and Technology program at the School of Remote Sensing & Geomatics Engineering, Nanjing University of Information Science & Technology (NUIST). I specialize in multi-source remote sensing data processing as well as geospatial intelligent analysis. My current research focuses on deep learning-based remote sensing image change detection, satellite-ground-air multi-modal data fusion, and the Google Earth Engine (GEE) cloud platform.  
+Here are my latest technical updates and open-source code. Additionally, I share my learning journey in various online communities and look forward to exchanging ideas with you :)
 
 
 
